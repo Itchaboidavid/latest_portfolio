@@ -8,8 +8,8 @@ const containerVariants = {
       opacity: 1, 
       y: 0, 
       transition: {
-        duration: 1, 
-        staggerChildren: 0.5
+        duration: 0.5, 
+        staggerChildren: 0.2
       }
     }
   }
