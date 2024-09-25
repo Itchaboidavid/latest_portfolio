@@ -137,7 +137,7 @@ export const EXPERIENCES = [
 export const EDUCATION = [
   {
     degree: "Bachelor of Science in Information Technology",
-    institution: "Stanford University",
+    institution: "City College of Tagaytay",
     duration: "September 2020 - July 2024",
     description:
       "Focused on Information Technology with a specialization in Human-Computer Interaction and Software Engineering. Completed a thesis on optimizing IT systems for enhanced user experience. Engaged in various projects involving systems analysis, software development, and IT project management.",
